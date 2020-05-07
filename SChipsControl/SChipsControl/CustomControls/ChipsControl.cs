@@ -5,7 +5,7 @@ using Xamarin.Forms;
 
 namespace SChipsControl.CustomControls
 {
-    public class ChipsControl:FlexLayout
+    public class ChipsControl:Entry
     {
     }
 }
